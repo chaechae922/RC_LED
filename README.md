@@ -63,5 +63,6 @@ HSV→RGB 변환 알고리즘을 통해 컬러 LED를 제어합니다.
 ## 역할 분담
 
 capturePluse, hsvToRgb 함수 => 🐼채은짱🐼
+
 나머지 코드 => 🙉수아짱🙉
 
