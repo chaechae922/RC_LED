@@ -1,3 +1,9 @@
+## ▶ 이번주 유튭
+🙉수아짱🙉:
+🐼채은짱🐼:
+
+---
+
 ## 📌 개요
 
 본 프로젝트는 RC 수신기(RD9)에서 나오는 PWM 신호 3채널을 읽어  
@@ -50,4 +56,10 @@ HSV→RGB 변환 알고리즘을 통해 컬러 LED를 제어합니다.
 |----|-----|-----|
 |![image](https://github.com/user-attachments/assets/94c9c796-a4e7-4069-9125-3d08ad278159)|![image](https://github.com/user-attachments/assets/3279b4a1-366e-4aa2-8a5c-f13332e573f5)|![image](https://github.com/user-attachments/assets/e6908f15-a8ca-4ddd-bd72-b2f27ca07f93)|
 
+---
+
+## 역할 분담
+
+capturePluse, hsvToRgb 함수 => 🐼채은짱🐼
+나머지 코드 => 🙉수아짱🙉
 
