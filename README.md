@@ -48,8 +48,6 @@ HSV→RGB 변환 알고리즘을 통해 컬러 LED를 제어합니다.
 
 |브래드보드|아두이노|RC 수신기|
 |----|-----|-----|
-|![image](https://github.com/user-attachments/assets/94c9c796-a4e7-4069-9125-3d08ad278159)|
-![image](https://github.com/user-attachments/assets/3279b4a1-366e-4aa2-8a5c-f13332e573f5)|
-![image](https://github.com/user-attachments/assets/e6908f15-a8ca-4ddd-bd72-b2f27ca07f93)|
+|![image](https://github.com/user-attachments/assets/94c9c796-a4e7-4069-9125-3d08ad278159)|![image](https://github.com/user-attachments/assets/3279b4a1-366e-4aa2-8a5c-f13332e573f5)|![image](https://github.com/user-attachments/assets/e6908f15-a8ca-4ddd-bd72-b2f27ca07f93)|
 
 
