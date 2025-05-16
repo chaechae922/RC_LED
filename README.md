@@ -1,8 +1,8 @@
 ## 🎥 이번주 유튭
 
-🙉수아짱🙉:
+🙉수아짱🙉: https://youtube.com/shorts/04p9sRpWkyo?si=PFVF2Mbwo5zwFvU6
 
-🐼채은짱🐼:
+🐼채은짱🐼: https://youtube.com/shorts/xD_c_B3hmJ0?si=-x8yrGIUkRA-vTfy
 
 ---
 
@@ -13,9 +13,8 @@
 2. LED 밝기 제어  
 3. 3색(RGB) LED 색 변환  
 
-동작을 구현한 시스템입니다.  
 PWM 디코딩에는 PinChangeInterrupt 라이브러리를 사용했고,  
-HSV→RGB 변환 알고리즘을 통해 컬러 LED를 제어합니다.
+HSV→RGB 변환 알고리즘을 통해 컬러 LED를 제어
 
 ---
 
